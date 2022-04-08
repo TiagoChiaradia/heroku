@@ -21,3 +21,12 @@ app.listen(port,()=>{
 });
 
 //module.exports = app;
+
+//dentro package.json mudei de test para start 
+/*
+
+  "scripts": {
+    "start": "node app.js" 
+  },
+
+  */
