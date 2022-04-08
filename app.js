@@ -20,4 +20,4 @@ app.listen(port,()=>{
     console.info("Aplicação Rorando")
 });
 
-module.exports = app;
+//module.exports = app;
